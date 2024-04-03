@@ -14,7 +14,7 @@ function App() {
               title = {book.bookTitle}
               author = {book.bookAuthor}
               pageCount = {book.pageCount}
-              raiting = {book.bookRating}
+              rating = {book.bookRating}
               imageUrl = {book.imageUrl}
             />
           ))}
