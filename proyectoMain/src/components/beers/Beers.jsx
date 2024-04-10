@@ -1,4 +1,5 @@
 
+
 const beers = [
     {
         id: 1,
@@ -65,4 +66,4 @@ const beers = [
     },
 ];
 
-export default beers 
+export default beers;
