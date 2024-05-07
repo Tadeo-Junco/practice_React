@@ -2,17 +2,9 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
-  display: flex;
 }
 
-.content-beer {
-  display: flex; /* Establece el contenedor como un flex container */
-}
 
-.beer {
-  flex-direction: row;/* Margen entre los componentes */
-}
 
 
 
